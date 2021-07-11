@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<img align="center" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png"/>
+<img align="center" alt="JavaScript" width="50px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img  align="center" alt="Thymeleaf" width="50px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="center" alt="Thymeleaf" width="50px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="center" alt="Typescript" width="60px" src="https://img.icons8.com/color/48/000000/typescript.png"" />
