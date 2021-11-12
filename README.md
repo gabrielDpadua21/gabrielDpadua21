@@ -9,6 +9,7 @@ I'm a software engineer at [eduzz](https://www.eduzz.com/) in Sorocaba, SP 💻
 - Software Engineer (FullStack) 🦄
 - I want to become a Senior Software Engineer 🧙‍♂️
 - Studying to specialize in Big Data, Machine Larning and Software Architecture 🎓
+- Frontend enthusiast 😀
 
 ### Interests 😍
 ![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
