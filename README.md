@@ -4,12 +4,13 @@
 
 ### Hi, I'm Gabriel D. Padua :)
 
-I'm a software engineer at [eduzz](https://www.eduzz.com/) in Sorocaba, SP 💻
+I'm a Software Engineer at [eduzz](https://www.eduzz.com/) in Sorocaba, SP 💻
 
 - Software Engineer (FullStack) 🦄
-- I want to become a Senior Software Engineer 🧙‍♂️
-- Studying to specialize in Big Data, Machine Larning and Software Architecture 🎓
-- Frontend enthusiast 😀
+- I want to become a Senior Software Engineer/Architect and Ethical Hacker  🧙‍♂️
+- Studying to specialize in Machine Larning, Architecture, Cloud and Cyber Security 🎓
+- Frontend and Game Developer enthusiast 😀
+- Amateur Drone Pilot 🛦
 
 ### Interests 😍
 ![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
