@@ -7,8 +7,8 @@
 I'm a Software Engineer at [eduzz](https://www.eduzz.com/) in Sorocaba, SP 💻
 
 - Software Engineer (FullStack) 🦄
-- I want to become a Senior Software Engineer/Architect and Ethical Hacker  🧙‍♂️
-- Studying to specialize in Machine Larning, Architecture, Cloud and Cyber Security 🎓
+- I want to become a Senior Software Engineer/Architect and Mobile Developer specialist 🧙‍♂️
+- Studying to specialize in Mobile development, Architecture and Cloud 🎓
 - Frontend and Game Developer enthusiast 😀
 - Amateur Drone Pilot 🛦
 
