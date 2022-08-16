@@ -30,7 +30,7 @@ I'm a Software Engineer at [eduzz](https://www.eduzz.com/) in Sorocaba, SP 💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielDpadua21&show_icons=true&theme=github)
 
 
-### Send me an E-mail or follow in Linkdin 🚀
+### Send me an E-mail or follow in LinkedIn 🚀
 <a href="mailto:gabriel.d.padua21@gmail.com"><img src="https://slackmojis.com/emojis/870-mail/download" width="33px"></a>
 <a href="https://www.linkedin.com/in/gabriel-d-65ab77152/" targer="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="33px"/></a>
 
