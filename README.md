@@ -1,14 +1,13 @@
 <h1 align="center">
  
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gabrielDpadua21&repo=GuillaumeFalourd&countColorcountColor) 
 
 ### Hi, I'm Gabriel D. Padua :)
 
 I'm a Software Engineer at [eduzz](https://www.eduzz.com/) in Sorocaba, SP 💻
 
 - Software Engineer (FullStack) 🦄
-- I want to become a Senior Software Engineer/Architect and Mobile Developer specialist 🧙‍♂️
-- Studying to specialize in Mobile development, Architecture and Cloud 🎓
+- I want to become a Senior Software Engineer/Architect and Cyber Security Specialist 🧙‍♂️
+- Studying to specialize in Cybersecurity and Hacking, Architecture and Cloud 🎓
 - Frontend and Game Developer enthusiast 😀
 - Amateur Drone Pilot 🛦
 
