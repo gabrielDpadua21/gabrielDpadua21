@@ -55,9 +55,6 @@ These are some of the technologies and tools that I work with:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielDpadua21&show_icons=true&theme=github)
 
-
-### Send me an E-mail or follow in LinkedIn 🚀
-
 ## 🎯 Let's Keep in Touch and Follow me 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-d-65ab77152/)
