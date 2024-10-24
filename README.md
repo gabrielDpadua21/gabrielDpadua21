@@ -1,10 +1,10 @@
 <h1 align="center">
  
-### Hi, I'm Gabriel D. Padua :)
+### Hi, I'm Gabriel D. :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielDpadua21" alt="gabrielDpadua21" /> </p>
 
-I'm a Software Engineer in Sorocaba, SP 💻
+I'm a Software Engineer 💻
 
 - Senior Software Engineer 🧙‍♂️
 - I want to become a Software Architect and Cyber Security Specialist (Pentester) 🧙‍♂️
@@ -55,13 +55,9 @@ These are some of the technologies and tools that I work with:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielDpadua21&show_icons=true&theme=github)
 
-## 🎯 Let's Keep in Touch and Follow me 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-d-65ab77152/)
-
 #### License
 
-Copyright © 2021, [Gabriel D. Padua](https://github.com/gabrielDpadua21).
+Copyright © 2021, [Gabriel D.](https://github.com/gabrielDpadua21).
 Released under the [MIT license](LICENSE).
 
 ***
